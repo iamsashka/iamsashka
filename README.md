@@ -1,5 +1,6 @@
-# 💫 About Me:
-🌸 Hi, I’m Alexandra!<br><br>🌱 I’m currently learning and improving my skills in web development, testing, and software engineering.<br><br>💡 I’m passionate about:<br><br>• Building modern and functional web applications<br><br>• Exploring both frontend and backend development<br><br>• Designing intuitive and user-friendly interfaces<br><br>• Ensuring software quality through testing and database design<br><br>🌟 I’m eager to dive into hands-on projects to sharpen my professional skills and gain valuable experience.
+
+##🌸 Hi, I’m Alexandra!<br><br>
+🌱 I’m currently learning and improving my skills in web development, testing, and software engineering.<br><br>💡 I’m passionate about:<br><br>• Building modern and functional web applications<br><br>• Exploring both frontend and backend development<br><br>• Designing intuitive and user-friendly interfaces<br><br>• Ensuring software quality through testing and database design<br><br>🌟 I’m eager to dive into hands-on projects to sharpen my professional skills and gain valuable experience.
 
 
 # 💻 Tech Stack:
