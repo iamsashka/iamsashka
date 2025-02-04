@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamsashka&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamsashka&theme=blue_navy&hide_border=false)<br/>
-
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/shades_of_purple/3-stats.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=iamsashka&icon=4&color=1)](https://visitcount.itsvg.in)
 
