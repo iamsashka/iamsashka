@@ -7,7 +7,6 @@
 
 • Getting more than 4 hours of sleep (a rare luxury!)
 
-• Nailing that sweet spot between "I’ll do it later" and "Wait, it’s due WHEN?!"
 
 
 # 💻 Tech Stack:
